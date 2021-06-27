@@ -1,0 +1,15 @@
+Sitemap: http://mielemediterraneo.it/sitemap.xml
+
+# Custom rules
+User-agent: *
+Disallow: /infomiele
+Disallow: /infomiele.html
+Disallow: /label
+Disallow: /label.html
+Disallow: /pappa-reale-in-cellette
+Disallow: /privacy
+Disallow: /prods/*
+Disallow: /ritiro-a-mano/
+Disallow: /ritiro-a-mano.html
+Disallow: /spedizione/
+Disallow: /spedizione.html
